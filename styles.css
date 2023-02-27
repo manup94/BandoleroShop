@@ -184,10 +184,10 @@ h1{
  align-items: center;
 
 }
-.producto img:hover{
+/* .producto .imag:hover{
   transform: scale(1.04);
 
-} 
+}  */
 /* //////////////NEWSLETTER///////////////////////// */
 
 .news-container form button img{
